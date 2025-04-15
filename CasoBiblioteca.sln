@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principal", "CasoBiblioteca\Principal.csproj", "{35889299-7C3A-4F19-A0DE-FB6CD0C0572B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases", "Libro\Clases.csproj", "{9DAC310E-EE3E-44BA-9273-90BEBB374A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35889299-7C3A-4F19-A0DE-FB6CD0C0572B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35889299-7C3A-4F19-A0DE-FB6CD0C0572B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35889299-7C3A-4F19-A0DE-FB6CD0C0572B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35889299-7C3A-4F19-A0DE-FB6CD0C0572B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DAC310E-EE3E-44BA-9273-90BEBB374A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DAC310E-EE3E-44BA-9273-90BEBB374A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DAC310E-EE3E-44BA-9273-90BEBB374A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DAC310E-EE3E-44BA-9273-90BEBB374A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

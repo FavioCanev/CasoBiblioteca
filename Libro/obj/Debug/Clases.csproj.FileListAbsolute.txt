@@ -1,0 +1,2 @@
+C:\Users\Asus\Documents\PracticasProgramacion\PruebasDeCSharp\CasoBiblioteca\Libro\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\PracticasProgramacion\PruebasDeCSharp\CasoBiblioteca\Libro\obj\Debug\Clases.csproj.CoreCompileInputs.cache

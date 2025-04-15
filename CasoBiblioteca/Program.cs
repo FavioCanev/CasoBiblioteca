@@ -13,7 +13,7 @@ namespace Principal
         {
             Console.WriteLine("Caso Biblioteca");
             Clases.Clases biblioteca = new Clases.Clases();
-
+            Console.WriteLine("MODIFICACION HECHA POR OMAR PARA PULL REQUEST");
             Console.WriteLine("1. Mostrar libros");
             Console.WriteLine("2. Agregar libro");
             Console.WriteLine("0. Salir");
